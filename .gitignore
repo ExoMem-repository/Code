@@ -1,0 +1,14 @@
+__pycache__/
+build/
+*.egg-info/
+*.so
+*.o
+
+# Generated Qwen2.5-7B weights and downloaded snapshots.
+qwen_7b_split_weights/
+qwen_7b_bin/
+
+# Common local artifacts.
+*.log
+*.png
+*.pdf

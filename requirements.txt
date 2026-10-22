@@ -1,0 +1,7 @@
+# Install a CUDA-enabled PyTorch build separately.
+# On Jetson, use the NVIDIA/JetPack-compatible torch wheel.
+accelerate
+huggingface_hub
+numpy
+safetensors
+transformers==4.57.6
